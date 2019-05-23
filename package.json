@@ -1,0 +1,26 @@
+{
+  "name": "strata3",
+  "version": "1.0.0",
+  "description": "tech test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danners316/accordion.git"
+  },
+  "author": "dreynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danners316/accordion/issues"
+  },
+  "homepage": "https://github.com/danners316/accordion#readme",
+  "devDependencies": {
+    "connect-livereload": "^0.6.1",
+    "grunt": "^1.0.4",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "serve-static": "^1.14.1"
+  }
+}
