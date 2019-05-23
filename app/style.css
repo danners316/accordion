@@ -69,7 +69,7 @@ dt.open{
     -moz-transition: max-height 0.5s ease-in-out;
     -o-transition: max-height 0.5s ease-in-out;
     transition: max-height 0.5s ease-in-out;
-    max-height: 10em;
+    max-height: 50em;
 }
 
 /* Media Queries */
